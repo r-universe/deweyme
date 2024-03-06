@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "heterometa"]
+	path = heterometa
+	url = https://github.com/cran/heterometa
 [submodule "latdiag"]
 	path = latdiag
 	url = https://github.com/cran/latdiag
